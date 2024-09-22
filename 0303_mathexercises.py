@@ -18,6 +18,3 @@ lots_of_heys = "Hey" * 87
 
 # Adding numbers
 string_numbers = "81" + "69"
-
-# print all
-print(hours, minutes, sine, cosine, lots_of_heys, string_numbers)

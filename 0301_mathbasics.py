@@ -16,6 +16,3 @@ power = 92 ** 42
 remainder = 15 % 6
 
 average = (32 + 24) / 2
-
-# test
-# print(sum_numbers, difference, division, floor_division, multiply_numbers, power, remainder, average)

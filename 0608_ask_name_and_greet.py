@@ -15,8 +15,10 @@ def ask_name_and_greet():
     Get out of here, Thanos! Nobody wants to play with you!
     """
     # Your code goes here
-    name = input().casefold()
+    name = input().lower()
     if name == "thanos":
         print("Get out of here, Thanos! Nobody wants to play with you!")
     else:
         print(f"Hi, {name.capitalize()}. Would you like to have a Hamburger?")
+
+ask_name_and_greet()

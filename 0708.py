@@ -18,9 +18,3 @@ def capitalize_letters(text: str) -> str:
     :return: capitalized text
     """
     # Write your code here
-    list = list(text)
-    print(list)
-
-capitalize_letters()
-
-# kyll varsti teen
